@@ -6,5 +6,4 @@ dateOfBirth = 20010113
 age = 18
 teacher = False
 
-print(firstName , lastName , str(age) , str(teacher))
-print(dateOfBirth)
+print(firstName , lastName , str(age) , str(teacher) , str(dateOfBirth))
